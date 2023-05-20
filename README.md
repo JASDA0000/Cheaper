@@ -1,2 +1,4 @@
 # Cheaper
-mini Project python
+mini Project 
+
+โปรแกรมเปรียบเทียบราคาสินค้า
